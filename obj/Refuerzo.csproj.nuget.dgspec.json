@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kimberly\\Documents\\Refuerzo\\Refuerzo.csproj": {}
+    "C:\\Users\\Kimberly\\Documents\\GitHub\\Refuerzo-bootstrap\\Refuerzo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kimberly\\Documents\\Refuerzo\\Refuerzo.csproj": {
+    "C:\\Users\\Kimberly\\Documents\\GitHub\\Refuerzo-bootstrap\\Refuerzo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kimberly\\Documents\\Refuerzo\\Refuerzo.csproj",
+        "projectUniqueName": "C:\\Users\\Kimberly\\Documents\\GitHub\\Refuerzo-bootstrap\\Refuerzo.csproj",
         "projectName": "Refuerzo",
-        "projectPath": "C:\\Users\\Kimberly\\Documents\\Refuerzo\\Refuerzo.csproj",
+        "projectPath": "C:\\Users\\Kimberly\\Documents\\GitHub\\Refuerzo-bootstrap\\Refuerzo.csproj",
         "packagesPath": "C:\\Users\\Kimberly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kimberly\\Documents\\Refuerzo\\obj\\",
+        "outputPath": "C:\\Users\\Kimberly\\Documents\\GitHub\\Refuerzo-bootstrap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kimberly\\AppData\\Roaming\\NuGet\\NuGet.Config"
